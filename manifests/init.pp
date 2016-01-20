@@ -1,4 +1,4 @@
-# == Defined class: users
+# == Defined type: users
 #
 # Users configuration module
 #
